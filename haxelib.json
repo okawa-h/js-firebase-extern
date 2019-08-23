@@ -1,0 +1,10 @@
+{
+	"name": "js-firebase",
+	"url" : "https://github.com/okawa-h/js-firebase-extern/",
+	"license": "MIT",
+	"tags": ["extern", "javascript", "js"],
+	"description": "Externs for firebase",
+	"version": "0.1.0",
+	"releasenote": "🎉release",
+	"contributors": ["okawa-h"]
+}
