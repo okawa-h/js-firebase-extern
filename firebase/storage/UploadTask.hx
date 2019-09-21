@@ -13,7 +13,7 @@ extern class UploadTask {
 	public function cancel():Bool;
 
 	@:native('catch')
-	public function catchError(onRejected:Error->Dynamic):Promise<Dyanmic>;
+	public function catchError(onRejected:Error->Dynamic):Promise<Dynamic>;
 
 	public function on(
 		event:TaskEvent,

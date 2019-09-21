@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"tags": ["extern", "javascript", "js", "firebase"],
 	"description": "Externs for firebase",
-	"version": "0.1.0",
-	"releasenote": "🎉release",
+	"version": "0.2.0",
+	"releasenote": "🎉 fix typo",
 	"contributors": ["okawa-h"]
 }
