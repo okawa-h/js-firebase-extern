@@ -1,6 +1,6 @@
 package firebase.firestore;
 
-import js.html.Uint8Array;
+import js.lib.Uint8Array;
 
 @:native('firebase.firestore.Blob')
 extern class Blob {

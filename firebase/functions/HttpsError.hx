@@ -1,6 +1,6 @@
 package firebase.functions;
 
-import js.Error;
+import js.lib.Error;
 import firebase.functions.Functions.FunctionsErrorCode;
 
 @:native('firebase.functions.HttpsError')

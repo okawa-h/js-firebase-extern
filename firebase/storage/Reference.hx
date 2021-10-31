@@ -1,9 +1,9 @@
 package firebase.storage;
 
 import js.lib.Promise;
-import js.html.ArrayBuffer;
+import js.lib.ArrayBuffer;
 import js.html.Blob;
-import js.html.Uint8Array;
+import js.lib.Uint8Array;
 import firebase.storage.ListOptions;
 import firebase.storage.ListResult;
 import firebase.storage.SettableMetadata;
