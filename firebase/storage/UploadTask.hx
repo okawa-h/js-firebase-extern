@@ -1,7 +1,7 @@
 package firebase.storage;
 
 import js.Error;
-import js.Promise;
+import js.lib.Promise;
 import firebase.storage.Storage.TaskEvent;
 import firebase.storage.UploadTaskSnapshot;
 

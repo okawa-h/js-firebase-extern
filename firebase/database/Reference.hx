@@ -1,6 +1,6 @@
 package firebase.database;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.auth.Error;
 import firebase.database.DataSnapshot;
 import firebase.database.OnDisconnect;

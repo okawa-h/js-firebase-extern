@@ -1,6 +1,6 @@
 package firebase.auth;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.app.App;
 import firebase.auth.ApplicationVerifier;
 import firebase.auth.AuthSettings;

@@ -1,6 +1,6 @@
 package firebase.installations;
 
-import js.Promise;
+import js.lib.Promise;
 
 @:native('firebase.installations.Installations')
 extern class Installations {

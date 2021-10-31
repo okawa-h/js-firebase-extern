@@ -1,6 +1,6 @@
 package firebase.firestore;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.firestore.CollectionReference;
 import firebase.firestore.DocumentSnapshot;
 import firebase.firestore.FieldPath;

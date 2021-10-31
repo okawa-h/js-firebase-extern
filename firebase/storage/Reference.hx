@@ -1,6 +1,6 @@
 package firebase.storage;
 
-import js.Promise;
+import js.lib.Promise;
 import js.html.ArrayBuffer;
 import js.html.Blob;
 import js.html.Uint8Array;

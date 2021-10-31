@@ -1,6 +1,6 @@
 package firebase.database;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.database.Reference;
 
 @:native('firebase.database.ThenableReference')
