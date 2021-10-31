@@ -1,6 +1,6 @@
 package firebase.firestore;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.firestore.DocumentSnapshot;
 import firebase.firestore.Firestore.WhereFilterOp;
 import firebase.firestore.Firestore.OrderByDirection;

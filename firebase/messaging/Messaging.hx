@@ -1,7 +1,7 @@
 package firebase.messaging;
 
 import js.html.ServiceWorkerRegistration;
-import js.Promise;
+import js.lib.Promise;
 import firebase.CompleteFn;
 import firebase.ErrorFn;
 import firebase.NextFn;

@@ -1,6 +1,6 @@
 package firebase;
 
-import js.Error;
+import js.lib.Error;
 
 extern interface Observer {
 

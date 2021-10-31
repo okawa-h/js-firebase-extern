@@ -5,9 +5,11 @@ A tool for controlling firebase with Javascript for everyone.
 
 ## Enviroment
 
-Haxe < 3.4.7
+Tested with:
 
-JavaScript Firebase SDK < 6.4.0
+Haxe < 4.0
+
+JavaScript Firebase SDK < 8.10
 
 ## Example
 

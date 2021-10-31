@@ -1,6 +1,6 @@
 package firebase.functions;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.functions.HttpsCallableResult;
 
 @:native('firebase.functions.HttpsCallable')

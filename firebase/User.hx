@@ -1,6 +1,6 @@
 package firebase;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.auth.ApplicationVerifier;
 import firebase.auth.Auth.ActionCodeSettings;
 import firebase.auth.Auth.UserCredential;

@@ -1,6 +1,6 @@
 package firebase.app;
 
-import js.Promise;
+import js.lib.Promise;
 import firebase.Firebase;
 import firebase.auth.Auth;
 import firebase.database.Database;
